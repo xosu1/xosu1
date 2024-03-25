@@ -1,4 +1,4 @@
-### Hi there 👋
+![imagem](https://github.com/xosu1/xosu1/blob/main/e3694cedcb305f5fd61207f389ce3d7b.gif)
 
 <!--
 **xosu1/xosu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
